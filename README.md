@@ -1,1 +1,8 @@
-# image-captioning-corpus-for-albanian-language
+# Image captioning corpus for the Albanian language
+
+
+
+
+
+
+
